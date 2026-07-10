@@ -1,4 +1,4 @@
-# Digital Marketing Internship - Project 1
+# Digital Marketing Internship  Project 1
 
 ## Social Media Content Planning
 
