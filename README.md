@@ -14,11 +14,7 @@ The objective of this project is to build a practical digital marketing strategy
 ---
 
 # 📄 Project Document
-
-### 👉 [Bloom_Brew_Digital_Marketing_Plan.docx](./Bloom_Brew_Digital_Marketing_Plan.docx)
-
----
-
+👉 **[Bloom_Brew_Digital_Marketing_Plan.pdf](./Bloom_Brew_Digital_Marketing_Plan.pdf)**
 
 ---
 
@@ -86,8 +82,7 @@ This project includes:
 task01-Ritvik-Tyagi
 │
 ├── README.md
-├── Bloom_Brew_Digital_Marketing_Plan.docx
-
+└── Bloom_Brew_Digital_Marketing_Plan.pdf
 ```
 
 ---
