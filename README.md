@@ -1,40 +1,33 @@
-# Digital Marketing Internship  Project 1
+# Digital Marketing Project 1 – Social Media Content Planning
 
-## Social Media Content Planning
+## Overview
+This repository contains my submission for Project 1: Social Media Content Planning.
 
-This repository contains my submission for **Project 1** of the **DecodeLabs Digital Marketing Internship Program**.
+## View Project Report
 
-## Project Overview
+📄 **Open the complete PDF report here:**
 
-This project focuses on developing a structured social media content plan for a brand or business. It demonstrates the process of identifying the target audience, creating engaging content ideas, and preparing a basic posting schedule.
+[View Project Report](./Digital%20Marketing%20P1.pdf)
 
-## Objectives
-
+## Project Objectives
 - Identify the target audience
-- Plan engaging social media content
-- Create a content calendar
-- Develop a posting schedule
+- Create content ideas for social media posts
+- Develop a basic posting schedule
+- Understand content planning and audience engagement
 
-## Skills Demonstrated
-
-- Digital Marketing
+## Key Skills
 - Social Media Marketing
 - Content Planning
-- Audience Research
+- Audience Analysis
 - Content Strategy
-
-
+- Digital Marketing Fundamentals
 
 ## Repository Contents
+- Digital Marketing P1.pdf – Complete project report
 
-- Project Presentation (PDF)
-- README.md
+## Learning Outcomes
+This project helped me understand how to create a structured social media content strategy, identify target audiences, and plan engaging content that supports marketing goals.
 
-## Internship
+---
 
-DecodeLabs – Digital Marketing Internship (2026)
-
-## Author
-
-**Ritvik Tyagi**
-BBA Student, IMS Dasna
+**Author:** Ritvik Tyagi
