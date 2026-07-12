@@ -36,8 +36,11 @@ The main goals of this project are:
 | File | Description |
 | Digital Marketing P1.pdf | Original project document provided by DecodeLabs |
 | README.md | Project overview and documentation |
+## 📂 Repository Contents
 
----
+-Bloom_Brew_Digital_Marketing_Plan.pdf
+-
+
 
 ## 🚀 Project Workflow
 
