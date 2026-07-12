@@ -1,84 +1,101 @@
-# 📱 Digital Marketing Project 1 – Social Media Content Planning
+# Bloom & Brew Bakery – Digital Marketing Content Plan
 
-## 📖 Overview
-
-This repository contains my submission for **Project 1 – Social Media Content Planning** as part of the **DecodeLabs Digital Marketing Industrial Training Program (Batch 2026)**.
-
-The objective of this project is to create a structured social media content strategy for a brand by identifying the target audience, planning engaging content, and preparing a posting schedule.
+> **Project 1 – Digital Marketing Internship**  
+> Prepared by **Ritvik Tyagi**
 
 ---
 
-## 🎯 Project Objective
+## Project Overview
 
-The main goals of this project are:
+This project presents a complete **Digital Marketing & Social Media Content Plan** for **Bloom & Brew Bakery**, a fictional artisan bakery and coffee shop.
 
-- Identify the target audience
-- Plan engaging social media content
-- Create a content calendar
-- Build a basic posting schedule
-- Improve audience engagement through strategic planning
+The objective of this project is to build a practical digital marketing strategy that increases brand awareness, customer engagement, and business growth using modern digital marketing techniques.
 
 ---
 
-## 🛠 Skills Demonstrated
+# 📄 Project Document
+
+### 👉 [Bloom_Brew_Digital_Marketing_Plan.docx](./Bloom_Brew_Digital_Marketing_Plan.docx)
+
+---
+
+
+---
+
+## Project Highlights
+
+This project includes:
+
+- Executive Summary
+- Brand Overview
+- Marketing Goals & Objectives
+- Target Audience Personas
+- Competitive Analysis
+- Brand Voice & Tone
+- Content Pillars
+- Digital Marketing Strategy
+- Instagram Strategy
+- Facebook Strategy
+- LinkedIn Marketing Strategy
+- SEO & Local Marketing
+- Email Marketing
+- Influencer Marketing
+- Hashtag Strategy
+- Weekly Content Calendar
+- Four Week Posting Schedule
+- Strategy Implementation Plan
+- KPI Tracking
+- Budget Planning
+- Risk Management
+- Sample Caption Bank
+
+---
+
+## Tools Used
+
+- Microsoft Word
+- Canva
+- Digital Marketing Concepts
+- Social Media Planning
+- Content Strategy
+
+---
+
+## Skills Demonstrated
 
 - Digital Marketing
-- Social Media Strategy
+- Social Media Marketing
 - Content Planning
+- Branding
 - Audience Research
-- Marketing Communication
-- Content Calendar Creation
+- Market Research
+- Competitor Analysis
+- LinkedIn Marketing
+- Facebook Marketing
+- Instagram Marketing
+- SEO Basics
+- Email Marketing
+- Campaign Planning
+- KPI Planning
 
 ---
 
-## 📂 Repository Contents
+## Repository Structure
 
-| File | Description |
-| Digital Marketing P1.pdf | Original project document provided by DecodeLabs |
-| README.md | Project overview and documentation |
-## 📂 Repository Contents
+```
+task01-Ritvik-Tyagi
+│
+├── README.md
+├── Bloom_Brew_Digital_Marketing_Plan.docx
 
--Bloom_Brew_Digital_Marketing_Plan.pdf
--
-
-
-## 🚀 Project Workflow
-
-1. Understand the project requirements.
-2. Identify the target audience.
-3. Generate content ideas.
-4. Prepare a posting schedule.
-5. Organize the strategy into a structured content plan.
+```
 
 ---
 
-## 📈 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-- Planning social media campaigns
-- Understanding audience behavior
-- Creating marketing content strategies
-- Organizing content for consistent posting
-- Applying digital marketing concepts in a real-world scenario
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Ritvik Tyagi**
 
-BBA Student  
-IMS Dasna
+Digital Marketing Internship Project
 
----
-
-## 📌 Internship
-
-**DecodeLabs – Digital Marketing Industrial Training (Batch 2026)**
-
----
-
-## ⭐ Note
-
-This repository has been created as part of my internship assignment and is intended for educational and portfolio purposes.
+July 2026
