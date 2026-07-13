@@ -1,7 +1,7 @@
 # Bloom & Brew Bakery – Digital Marketing Content Plan
 
-> **Project 1 – Digital Marketing Internship**  
-> Prepared by **Ritvik Tyagi**
+> Project 1 – Digital Marketing Internship 
+> Prepared by Ritvik Tyagi
 
 ---
 
