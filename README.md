@@ -14,7 +14,7 @@ The objective of this project is to build a practical digital marketing strategy
 ---
 
 # 📄 Project Document
-👉 **[Bloom_Brew_Digital_Marketing_Plan.pdf](./Bloom_Brew_Digital_Marketing_Plan.pdf)**
+👉 [Bloom_Brew_Digital_Marketing_Plan.pdf](./Bloom_Brew_Digital_Marketing_Plan.pdf)
 
 ---
 
